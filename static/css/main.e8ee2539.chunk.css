@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.buttons-box{display:flex;justify-content:center;flex-wrap:wrap}.button{min-width:200px;margin:5px}.cards-box{flex-wrap:wrap}.card,.cards-box{display:flex;justify-content:center}.card{align-items:center;text-align:center;padding:1rem;margin:1rem;width:10rem;height:10rem;opacity:.8;background-color:#8df89b;border:1px solid #000;border-radius:.5rem;box-shadow:1px 10px rgba(150,145,145,.7)}.card__name{font-size:1.75rem;font-weight:500}
+/*# sourceMappingURL=main.e8ee2539.chunk.css.map */
